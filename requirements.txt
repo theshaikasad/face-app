@@ -1,0 +1,9 @@
+streamlit
+deepface
+scipy==1.4.1
+numpy<1.19.0
+CMake
+scikit-image
+Boost
+dlib
+
