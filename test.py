@@ -67,9 +67,6 @@ def main():
 		pil_result_im = Image.open(least_img)
 		st.image(pil_result_im, width=140)
 
-	
-
-
 
 if __name__ == "__main__":
 	main()
