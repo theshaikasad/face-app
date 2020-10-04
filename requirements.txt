@@ -1,9 +1,6 @@
 streamlit
-deepface
-scipy==1.4.1
+deepface==0.0.40
 numpy<1.19.0
-CMake
-scikit-image
-Boost
-dlib
+
+
 
