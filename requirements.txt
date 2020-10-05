@@ -1,6 +1,5 @@
-streamlit
-deepface==0.0.40
+streamlit==0.67.1
 numpy<1.19.0
-
-
+opencv-python-headless==4.4.0.44
+deepface==0.0.40
 
